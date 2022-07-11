@@ -1,0 +1,36 @@
+#first{
+    
+    text-align: center;
+    height:600px;
+    width:100%;
+    border:30px solid rgb(16, 196, 220);
+    background-color: rgb(16, 196, 220);
+}
+#fir{
+    /* padding-left: 30px; */
+    
+    text-align: end;
+    height:550px;
+    width:45%;
+    background-color: rgb(247, 255, 255);
+    float: left;
+    font-size: 30px;
+    /* font: size 8px;; */
+
+}
+.ml-5{
+position: relative;
+left: 20px !important;
+}
+#sec{
+    text-align:start;
+    height:550px;
+    width:50%;
+    background-color: rgb(246, 246, 246);
+    float: left;
+
+}
+#t{
+    padding-bottom: 15px;
+
+}
